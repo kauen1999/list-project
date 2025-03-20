@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# list-project
+Aplicação To-Do List com autenticação via Firebase Authentication e banco de dados Firestore, permitindo que cada usuário gerencie suas próprias tarefas de forma segura e eficiente.
+>>>>>>> dd43da88fe5f009a8de3c876356f4de5f8bc440c
